@@ -1,2 +1,10 @@
-# Google App Engine generated folder
-appengine-generated/
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+/app/SVolfDev.key
